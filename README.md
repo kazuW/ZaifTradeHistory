@@ -5,8 +5,10 @@ Windows(.Net Framework4.5)
 
 ## usages
 Zaifから取引履歴をダウンロードします。
+exeとDLLファイルを同一ディレクトリーにコピーして使用してください。
 
-## commandline" aria-hidden
+
+## commandline
 ZaifTradeHistory.exe filename APIID APIKEY
 
 ## file lists
